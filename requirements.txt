@@ -1,0 +1,23 @@
+# Core ML & Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Medical Imaging
+nibabel>=5.1.0
+monai>=1.2.0
+
+# Data Handling
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.2
+tqdm>=4.65.0
+
+# Utility
+jupyterlab>=4.0.0
+ipykernel>=6.22.0
+Pillow>=9.5.0

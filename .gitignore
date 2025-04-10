@@ -1,0 +1,16 @@
+# Ignore virtual environment
+Brain-Tumor-env/
+
+# Ignore cache files
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints
+*.pth
+*.pt
+
+# Ignore data directories (large datasets)
+data/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
